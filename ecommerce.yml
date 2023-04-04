@@ -3,7 +3,7 @@ token:
   # 토큰 유효시간
   expiration_time: 86400000
   # 토큰 시크릿 KEY
-  secret: user_token_ecommerce
+  secret: my_token
   
 gateway:
   ip: 10.24.76.87
